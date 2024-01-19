@@ -1,8 +1,8 @@
 # Deep-Learning-Chess-Prototype
 This is a novel approach in accurately predicting winner of chess games. Instead of spawning an entire generation of players, we focus on a single player. We factor in his ELO rating, his opposition as well as the color of the pieces. But most importantly, the form of the player is heavily emphasized as must be in a real-world scenario. This form is known as momentum.
 
-##### A detailed paper is available for download in the file hierarchy above: Pricting Chess Game Outcomes Using Deep Learning
-<a href="Predicting.Chess.Game.Outcomes.Using.Deep.Learning.-.Paper.pdf" target="_blank">Predicting Chess Game Outcomes Using Deep Learning - Paper.pdf</a>
+##### A detailed paper is available : Predicting Chess Game Outcomes Using Player's Momentum.
+<a href="Predicting.Chess.Game.Outcomes.Using.Deep.Learning.-.Paper.pdf" target="_blank">Predicting Chess Game Outcomes Using Player's Momentum - Paper.pdf</a>
 
 ### Objective:
 
