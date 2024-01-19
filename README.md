@@ -26,4 +26,4 @@ For the second instance, a Dutch super grandmaster "Anish Giri" was the experime
 Our accuracy numbers of 76% might not seem significant but similar works in this field have only generated accuracy of high 60s and low 70s. Moreover, those models were really computationally intensive. Hence, it is not inaccurate to say that this model is groundbreaking. Researchers shoudl try to incorporate the momentum of players into their system and thus add another layer to their predictive model.
 
 ##### A detailed paper is available for download in the file hierarchy above: Pricting Chess Game Outcomes Using Deep Learning
-<a href="jayshrivastava0/Deep-Learning-Chess-Prototype/Predicting.Chess.Game.Outcomes.Using.Deep.Learning.-.Paper.pdf" target="_blank">Predicting Chess Game Outcomes Using Deep Learning - Paper.pdf</a>
+<a href="Predicting.Chess.Game.Outcomes.Using.Deep.Learning.-.Paper.pdf" target="_blank">Predicting Chess Game Outcomes Using Deep Learning - Paper.pdf</a>
